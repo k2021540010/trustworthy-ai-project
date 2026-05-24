@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 데이터 파일
+data/
+*.csv
+*.npy
+*.pkl
